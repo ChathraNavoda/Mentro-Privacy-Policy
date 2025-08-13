@@ -84,7 +84,8 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 ## 9. Third-Party Assets
 
-Mentro uses certain icons and illustrations sourced from [SVGRepo.com](https://www.svgrepo.com/), which are licensed for free commercial use (either public domain or with attribution, as applicable). Where required, attribution is provided within the app or in this policy. These assets have been modified to match Mentro’s branding and design.
+Mentro uses certain icons and illustrations sourced from [SVGRepo.com](https://www.svgrepo.com/) and animations rendered via [LottieFiles](https://lottiefiles.com/), which are licensed for free commercial use (either public domain, open-source, or with attribution, as applicable). Where required, attribution is provided within the app or in this policy. These assets have been modified to match Mentro’s branding and design.
+
 
 
 _This policy is compliant with Google Play's user data policies and reflects the current data usage practices of the Mentro app._
