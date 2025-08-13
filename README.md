@@ -1,6 +1,6 @@
 # Privacy Policy for Mentro
 
-_Last updated: June 20, 2025_
+_Last updated: August 13, 2025_
 
 Mentro (“we”, “us”, or “our”) is committed to protecting your privacy. This Privacy Policy outlines how your personal information is collected, used, and protected when you use the Mentro mobile app.
 
@@ -81,5 +81,10 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 📧 **mentro.ripple@gmail.com**
 
 ---
+
+## 9. Third-Party Assets
+
+Mentro uses certain icons and illustrations sourced from [SVGRepo.com](https://www.svgrepo.com/), which are licensed for free commercial use (either public domain or with attribution, as applicable). Where required, attribution is provided within the app or in this policy. These assets have been modified to match Mentro’s branding and design.
+
 
 _This policy is compliant with Google Play's user data policies and reflects the current data usage practices of the Mentro app._
